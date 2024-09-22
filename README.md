@@ -9,7 +9,7 @@ PART 1 (**Jayaprakash,**)
    3. For what value of z is σ(z) = 0.5?
    4. Show that σ′(z) = σ(z) · (1 − σ(z)).
 
-PART 2 (**Yuzhen Hu,**)
+PART 2 (**Yuzhen Hu,Deekshitha Gona**)
 
 Use the HR.csv dataset and consider the column “left” as the target variable:
 “1” meaning the person left the company.
