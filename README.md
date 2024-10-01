@@ -1,3 +1,27 @@
+# Homework 4 (Due OCT 5th)
+
+Part 1:
+Describe Batch Normalization.
+
+Part 2:
+Load the MNIST Fashion Dataset from Keras:
+[MNIST Fashion DatasetLinks to an external site.](https://keras.io/api/datasets/fashion_mnist/)
+
+Create several neural network models to investigate the effect of hyperparameters and techniques we studied on model performance. Consider the following factors:
+
+1. Number of layers
+2. Number of neurons in hidden layers
+3. Optimizers
+4. Batch size and learning rate in gradient descent optimizers
+5. L1 and L2 regularization
+6. Dropout
+7. Batch normalization
+8. Weight and bias initialization
+Refer to the information provided at:
+[Keras API Documentation](https://keras.io/api/)
+
+
+
 
 # Homework 3 (Due Sep 22nd)
 Please specify you name beside the problem you want to in charge of 
