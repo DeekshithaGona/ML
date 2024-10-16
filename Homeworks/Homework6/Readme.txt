@@ -1,4 +1,4 @@
-Homework 6: Regression Tree Algorithm on the California Housing Dataset
+# Homework 6: Regression Tree Algorithm on the California Housing Dataset
 
 Instructions:
 
