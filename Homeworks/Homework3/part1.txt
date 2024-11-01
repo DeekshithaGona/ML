@@ -1,0 +1,4 @@
+1. Why is output of σ in the interval (0, 1)?
+   2. Why the output of σ cannot equal 0 or 1?
+   3. For what value of z is σ(z) = 0.5?
+   4. Show that σ′(z) = σ(z) · (1 − σ(z)).
